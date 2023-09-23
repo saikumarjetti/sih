@@ -1,0 +1,27 @@
+{
+    "count": "1",
+    "images": {
+      "1": "birds2345.png"
+    }
+}
+
+
+{
+  // image name is key in images Dic
+    "Total_images": "8",
+    "images": {
+      "dasasda": ["saasasd.png","dqdwq"],
+      "safsfsa": ["adwdq.png","dqwdqwd.png"],
+      "safsfsa": ["adwdq.png","dqwdqwd.png"],
+      "safsfsa": ["adwdq.png","dqwdqwd.png"]
+    }
+}
+
+
+{
+    "sample_collection": [
+      "first item",
+      "second item",
+      "third item"
+    ]
+  }
